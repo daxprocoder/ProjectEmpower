@@ -1,0 +1,11 @@
+{
+  "name": "empowerbackend",
+  "version": "1.0.0",
+  "description": "An AI-driven initiative to detect and prevent violence against women, fostering a safe environment through advanced technology.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daxprocoder , anjali , priyanshi , priyanka , tanya",
+  "license": "MIT"
+}
